@@ -21,6 +21,8 @@ The project aims to classify plant diseases using images. A pre-trained CNN mode
 The streamlit web app interface:
 ![Screenshot (415)](https://github.com/user-attachments/assets/f5d14cae-854e-4c6f-9028-0571bddb5b2f)
 
+
+
 ## Code Overview
 
 ### `app.py`
